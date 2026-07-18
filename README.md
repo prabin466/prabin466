@@ -2,6 +2,6 @@
 
 I write python, break things, and occasionally fix them
 
-- Obsessed with chess ♟️
-- Into computer vision
+- Obsessed with chess 
+- Into Artificial Intelligence and Deployment/ MLOps
 - Based in australia
